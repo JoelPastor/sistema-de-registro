@@ -3,6 +3,8 @@
 - Estado del proyecto: En construccion.
 
 
-  Para ejecutar el sistema debes poner :
+  Para ejecutar el sistema debes poner:
 
   ```npm installer reart```
+
+Sistema de Registro 2
